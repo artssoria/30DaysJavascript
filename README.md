@@ -2,4 +2,4 @@
 
 proyecto 1 
 barra progresiva:
-#!important https://progress-bar-code.netlify.app/
+#!important['https://progress-bar-code.netlify.app/']
