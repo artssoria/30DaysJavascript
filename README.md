@@ -11,7 +11,7 @@ app-citas en javascript
 ### https://app-citas-javascript.netlify.app/
 ![app-citas](https://github.com/artssoria/30DaysJavascript/blob/main/capturas%20images/agenda-visitas.PNG)
 
-##projecto 3
+## projecto 3
 app-NoTeRiasChallenge
 
 ### https://noterias-challenge.netlify.app/
