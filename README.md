@@ -9,7 +9,7 @@ barra progresiva:
 app-citas en javascript
 
 ### https://app-citas-javascript.netlify.app/
-![app-citas//github.com/artssoria/30DaysJavascript/blob/main/capturas%20images/agenda-visitas.PNG)
+![app-citas](https://github.com/artssoria/30DaysJavascript/blob/main/capturas%20images/agenda-visitas.PNG)
 
 ##projecto 3
 app-NoTeRiasChallenge
